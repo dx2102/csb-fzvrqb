@@ -1,5 +1,5 @@
-# new-line-remover 换行去除器
-https://dx2102.github.io/new-line-remover/
+# 换行去除器
+https://dx2102.github.io/line-break-remover/
 
 一个简单的原生js网页小工具，现在发布在github pages里面。如果你复制pdf文件中你选中的文本，很多pdf阅读器就会在每一行文字末尾加上多余的换行符，而不是仅仅在一段末尾加换行符。
 
